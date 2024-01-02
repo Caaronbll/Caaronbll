@@ -1,7 +1,10 @@
 <h1 align="center">Christopher Aaron Bell</h1>
-<h3 align="center">Student Software Engineer at Holberton School</h3>
+<h3 align="center">Student Software Engineer at Atlas School</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=caaronbll&label=Profile%20views&color=0e75b6&style=flat" alt="caaronbll" /> </p>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Caaronbll/count.svg" />
+</p>
 
 
 <p align="center">
