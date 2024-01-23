@@ -1,4 +1,4 @@
-<h1 align="center">Christopher Aaron Bell</h1>
+<h1 align="center">Aaron Bell</h1>
 <h3 align="center">Student Software Engineer at Atlas School</h3>
 
 
