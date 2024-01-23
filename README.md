@@ -6,7 +6,7 @@
  <tr>
     <td>
      <h1 align="center">Aaron Bell</h1>
-     <p align="center">Student Software Engineer at Atlas School</p>
+     <p align="center"><bold>Student Software Engineer at Atlas School</bold></p>
      <br>
      <h2 align="center">Connect</h2>
      <p align="center">https://www.linkedin.com/in/aaron-bell-893343234/</p>
