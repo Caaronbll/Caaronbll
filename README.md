@@ -10,7 +10,7 @@
      <br>
      <h2 align="center">Connect</h2>
      <p align="center">Linkedin: https://www.linkedin.com/in/aaron-bell-893343234/</p>
-     <p align="center">Portfolio: https://caaronbll.github.io/aaronbell.github.io/</p>
+   
      
  <br>
 <h2 align="center">Languages and Tools:</h2>
