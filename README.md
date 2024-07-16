@@ -7,6 +7,7 @@
     <td>
      <h1 align="center">Aaron Bell</h1>
      <p align="center"><bold>Student Software Engineer at Atlas School</bold></p>
+     <p>Boomer Sooner!</p>
      <br>
      <h2 align="center">Connect</h2>
      <p align="center">Linkedin: https://www.linkedin.com/in/aaron-bell-893343234/</p>
